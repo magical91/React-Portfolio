@@ -29,7 +29,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background: var(--tertiary);
   color: var(--light);
   font-family: 'Poiret One', cursive;
 
@@ -87,7 +87,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--secondary);
 }
 
 header a {
@@ -172,6 +172,11 @@ textarea {
   flex-wrap: wrap;
 }
 
+.wp {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .space-between {
   justify-content: space-between;
 }
@@ -231,7 +236,7 @@ textarea {
 }
 
 .img-thumbnail {
-  width: auto;
+  width: 500px;
   height: 300px;
   margin-bottom: 50px;
   cursor: pointer;
@@ -286,5 +291,5 @@ a {
 }
 
 .navActive {
-  color: var(--secondary);
+  color: var(--dark);
 }

@@ -10,7 +10,7 @@ function Portfolio() {
     return (
         <section>
         <h1>Portfolio</h1>
-            <div>
+            <div className="flex-row wp">
                 <div>
                     <a href="https://magical91.github.io/Weather-App/">
                         <img src={img1} className="img-thumbnail mx-1" alt="screenshot of weather app" />
