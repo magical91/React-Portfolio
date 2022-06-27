@@ -7,9 +7,10 @@ function Nav() {
         { name: 'Resume', description: 'Form with resume, skills, and experience about me' }
     ];
 
-    const handleClick = () => {
-        console.log("click handled")
-    }
+    const handleClick = (item) => {
+        console.log(item);
+        return item;
+    };
 
     return (
         <header className="flex-row px-1">
@@ -21,14 +22,14 @@ function Nav() {
             <nav>
                 <ul className="flex-row">
                     <li className="mx-2">
-                        <a href="#about" onClick={() => handleClick()}>
+                        <a href="#about" onClick={() => handleClick("About")}>
                             About me
                         </a>
                     </li>
                     {
                         categories.map((category) => (
                             <li className="mx-1" key={category.name} >
-                                <span onClick={() => { handleClick(); }}>
+                                <span onClick={() => { handleClick(category.name); }}>
                                     {category.name}
                                 </span>
                             </li>
