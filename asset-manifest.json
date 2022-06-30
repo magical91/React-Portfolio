@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6a6d342c.css",
+    "main.js": "/React-Portfolio/static/js/main.09964068.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/screenshot1.png": "/React-Portfolio/static/media/screenshot1.c2f4b754b6ea54c892bb.png",
+    "static/media/sc1.png": "/React-Portfolio/static/media/sc1.b41a732c83325a225fb1.png",
+    "static/media/group-project.png": "/React-Portfolio/static/media/group-project.a3261790adb3b1a94f0e.png",
+    "static/media/mm.jpg": "/React-Portfolio/static/media/mm.a753c20db61afaad034c.jpg",
+    "static/media/budget-tracker-screenshot.jpg": "/React-Portfolio/static/media/budget-tracker-screenshot.0720933c9709187fb093.jpg",
+    "static/media/linkedin.png": "/React-Portfolio/static/media/linkedin.aac3076b5464f26b0630.png",
+    "static/media/screenS.png": "/React-Portfolio/static/media/screenS.d9487b522cec393362ca.png",
+    "static/media/sc.png": "/React-Portfolio/static/media/sc.7570e6f942bde815b509.png",
+    "static/media/slack.png": "/React-Portfolio/static/media/slack.c4eca4725f005bbdb653.png",
+    "static/media/github.gif": "/React-Portfolio/static/media/github.51bde2b007b3d33945fd.gif",
+    "index.html": "/React-Portfolio/index.html",
+    "main.6a6d342c.css.map": "/React-Portfolio/static/css/main.6a6d342c.css.map",
+    "main.09964068.js.map": "/React-Portfolio/static/js/main.09964068.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6d342c.css",
+    "static/js/main.09964068.js"
+  ]
+}
