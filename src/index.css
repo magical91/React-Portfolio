@@ -119,6 +119,10 @@ img {
   max-width: 100%;
 }
 
+#about {
+  text-align: center;
+}
+
 span[role="img"] {
   cursor: default;
 }
@@ -230,6 +234,10 @@ textarea {
   padding-bottom: var(--spacing-two);
 }
 
+.p-about {
+  margin: 20px;
+}
+
 .card {
   width: 25%;
   text-align: center;
@@ -288,6 +296,20 @@ a {
   margin-left: -2px;
   margin-right: -2px;
 
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+}
+
+/* .icons::hover {
+
+} */
+
+.footer-icon {
+  width: 75px;
+  height: 75px;
 }
 
 .navActive {

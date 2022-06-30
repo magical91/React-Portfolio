@@ -22,11 +22,6 @@ function Nav(props) {
             </h2>
             <nav>
                 <ul className="flex-row">
-                    <li className="mx-2">
-                        <a href="#about" onClick={() => setContactSelected(false)}>
-                            About me
-                        </a>
-                    </li>
                     {
                         categories.map((category) => (
                             <li className={
